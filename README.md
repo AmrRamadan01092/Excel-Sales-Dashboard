@@ -7,7 +7,15 @@ This project is an interactive Sales Dashboard built in Microsoft Excel using Po
 The dashboard provides valuable business insights by analyzing sales performance, customer behavior, regional sales, and monthly trends.
 
 ---
+## 📂 Dataset
 
+The original dataset used for this project is included in the `Dataset` folder.
+
+The dataset contains sales-related information used for data cleaning, transformation, analysis, and dashboard development.
+
+**Dataset file:** `Superstore_Dataset.xls`
+
+---
 ## 📷 Dashboard Preview
 
 ![Dashboard](Sales.png)
